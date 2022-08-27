@@ -3,3 +3,4 @@
 ### DevSecOps
 
 - Checkout testing
+- user.email in global by default
